@@ -1,4 +1,4 @@
-Username = "ugur30000" - Created By
+Username = "ugur30000" --Created By
 loadingscreen = true
 _G.CustomScriptName = "PS99 Dupe"
 _G.Text1 = "Script Loaded..."
